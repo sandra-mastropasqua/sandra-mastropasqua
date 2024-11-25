@@ -1,4 +1,5 @@
 # Hi, I'm Sandra 👋
+<div style="text-align:right;"># Hi, I'm Sandra 👋</div>
 
 ![Banner](https://res.cloudinary.com/dowa0e95f/image/upload/v1732526159/urwgbh8biflw4ffnc9wp.png)
 
