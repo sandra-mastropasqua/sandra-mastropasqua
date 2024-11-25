@@ -2,7 +2,7 @@
 
 ![Banner](https://res.cloudinary.com/dowa0e95f/image/upload/v1732526159/urwgbh8biflw4ffnc9wp.png)
 
-Bonjour, je suis MASTROPASQUA Sandra je suis actuellement étudiante à "La Plateforme" en vue de de devenir développeuse web. Depuis toujours, le design, la création m'intéresse. Je me considère comme une personne créative, dynamique et toujours curieuse d'apprendre de nouvelles choses. J'aime relever des défis et découvrir des compétences qui me permettent de transformer mes idées en projets concrets. 
+Bonjour, je suis Mastropasqua Sandra je suis actuellement étudiante à "La Plateforme" en vue de de devenir développeuse web. Depuis toujours, le design, la création m'intéresse. Je me considère comme une personne créative, dynamique et toujours curieuse d'apprendre de nouvelles choses. J'aime relever des défis et découvrir des compétences qui me permettent de transformer mes idées en projets concrets. 
 
 ## Hard Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
