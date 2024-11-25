@@ -1,4 +1,4 @@
-##### Hi, I'm Sandra 👋
+# Hi, I'm Sandra 👋
 
 ![Banner](https://res.cloudinary.com/dowa0e95f/image/upload/v1732526159/urwgbh8biflw4ffnc9wp.png)
 
