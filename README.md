@@ -1,6 +1,6 @@
 # Hi, I'm Sandra 👋
 
-![Banner](https://res.cloudinary.com/dowa0e95f/image/upload/v1732526159/urwgbh8biflw4ffnc9wp.png)
+![Banner](https://res.cloudinary.com/dowa0e95f/image/upload/v1739783797/Beige_Simple_Elegant_Personal_LinkedIn_Banner_1_qw7wfq.png)
 
 Bonjour, je suis Mastropasqua Sandra je suis actuellement étudiante à "La Plateforme" en vue de de devenir développeuse logiciel. Depuis toujours, le design, la création m'intéresse. Je me considère comme une personne créative, dynamique et toujours curieuse d'apprendre de nouvelles choses. J'aime relever des défis et découvrir des compétences qui me permettent de transformer mes idées en projets concrets. 
 
